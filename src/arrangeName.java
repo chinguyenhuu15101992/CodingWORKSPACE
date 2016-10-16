@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class arrangeName {
     public static void main(String[] args) {
-/* bai tap nhap 5 ten nguoi va sap xep theo a->z*/
+/* bai tap nhap 5 ten nguoi va sap xep theo a->z*111111/
         int i,j;
         String temp;
         Scanner input = new Scanner (System.in);
